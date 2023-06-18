@@ -34,7 +34,7 @@ else if( num >71 && num <= 139){
     "<font color='Red'>  Opps... TRY AGAIN<br> Hint: the number is divisble by 11</font>" 
     document.querySelector("#num").value="";
 }
-else if( num >140 && num <= 1499){
+else if( num >140 && num <= 149){
     document.querySelector("#result").innerHTML=
     "<font color='Red'>  Opps... TRY AGAIN<br> Hint: If you add 1 to this number it becomes a perfect square</font>" 
     document.querySelector("#num").value="";
