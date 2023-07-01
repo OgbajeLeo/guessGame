@@ -55,6 +55,12 @@
     margin-top: 50px;
     display: flex;
  }
+ #btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+ }
  
 .card{
     margin-top: 50px;
